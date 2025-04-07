@@ -10,7 +10,7 @@ Original file is located at
 import pandas as pd
 
 # Load dataset
-df = pd.read_csv("car.csv")
+
 
 # View basic info
 print(df.shape)
